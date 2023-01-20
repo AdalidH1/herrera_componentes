@@ -13,10 +13,10 @@ function Botones() {
     
   return (
     <div>
-    <a href='https://github.com/AdalidH1' target={'_blank'}><Button>GitHub</Button></a>
-    <a href='https://utd.edu.mx' target={'_blank'}><Button primary>UTD</Button></a>
-    <a href='https://www.facebook.com/adalid.herrera.39545?mibextid=ZbWKwL' target={'_blank'}><Button>Facebook</Button></a>
-  </div>
+      <a href='https://github.com/AdalidH1' target={'_blank'}><Button>GitHub</Button></a>
+      <a href='https://utd.edu.mx' target={'_blank'}><Button primary>UTD</Button></a>
+      <a href='https://www.facebook.com/adalid.herrera.39545?mibextid=ZbWKwL' target={'_blank'}><Button>Facebook</Button></a>
+    </div>
   );
 }
 export default Botones;
